@@ -1,0 +1,31 @@
+.about {
+	text-align: center;
+	padding-block: 56px 98px;
+	background-color: var(--bg-main-dim);
+}
+
+.about__title {
+	margin-bottom: 42px;
+}
+
+.about__desc {
+	display: flex;
+	flex-direction: column;
+	row-gap: 16px;
+	max-width: 800px;
+	margin-inline: auto;
+}
+
+.separator {
+	height: 1px;
+	width: 100%;
+	max-width: 420px;
+	margin-inline: auto;
+	background-color: var(--color-black);
+}
+
+@media (max-width: 480px) {
+	.about {
+		padding-block: 50px 62px;
+	}
+}
