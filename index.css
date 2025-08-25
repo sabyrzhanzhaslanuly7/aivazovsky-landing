@@ -1,9 +1,9 @@
-@import url("./styles/variables.css");
-@import url("./styles/basic.css");
+@import url("./styles/globals/variables.css");
+@import url("./styles/globals/basic.css");
 
-@import url("./styles/header.css");
-@import url("./styles/home.css");
-@import url("./styles/about.css");
-@import url("./styles/history.css");
-@import url("./styles/portfolio.css");
-@import url("./styles/contacts.css");
+@import url("./styles/sections/header.css");
+@import url("./styles/sections/home.css");
+@import url("./styles/sections/about.css");
+@import url("./styles/sections/history.css");
+@import url("./styles/sections/portfolio.css");
+@import url("./styles/sections/contacts.css");
