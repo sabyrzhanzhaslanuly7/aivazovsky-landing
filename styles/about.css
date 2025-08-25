@@ -23,3 +23,9 @@
 	margin-inline: auto;
 	background-color: var(--color-black);
 }
+
+@media (max-width: 480px) {
+	.about {
+		padding-block: 50px 62px;
+	}
+}
