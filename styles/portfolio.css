@@ -19,3 +19,21 @@
 .portfolio__picture-img {
 	margin-bottom: 40px;
 }
+
+@media (max-width: 480px) {
+	.portfolio {
+		padding-block: 40px 50px;
+	}
+
+	.portfolio__inner {
+		row-gap: 50px;
+	}
+
+	.portfolio__works {
+		row-gap: 50px;
+	}
+
+	.portfolio__picture-img {
+		margin-bottom: 30px;
+	}
+}
