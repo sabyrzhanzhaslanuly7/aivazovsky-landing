@@ -6,3 +6,8 @@
 ## Features
 
 - Semantic HTML5 designed with accessibility in mind
+- BEM methodology for class naming
+- Responsive layout using Flexbox
+- Images optimized and converted to WebP
+- SVG sprites for performance optimization
+- Git workflow through CLI commands
