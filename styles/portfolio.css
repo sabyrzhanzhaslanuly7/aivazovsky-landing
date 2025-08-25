@@ -1,0 +1,21 @@
+.portfolio {
+	padding-block: 80px 108px;
+	background-color: var(--bg-main-dim);
+}
+
+.portfolio__inner {
+	display: flex;
+	row-gap: 76px;
+	flex-direction: column;
+	text-align: center;
+}
+
+.portfolio__works {
+	display: flex;
+	row-gap: 95px;
+	flex-direction: column;
+}
+
+.portfolio__picture-img {
+	margin-bottom: 40px;
+}
