@@ -22,6 +22,10 @@ p {
 	padding: 0;
 }
 
+h2 {
+	font-size: 34px;
+}
+
 ul {
 	list-style-type: none;
 	padding: 0;
