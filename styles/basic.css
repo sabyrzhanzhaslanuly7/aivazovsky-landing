@@ -37,6 +37,14 @@ a {
 	text-decoration: none;
 }
 
+figure {
+	margin: 0;
+}
+
+img {
+	width: 100%;
+}
+
 .container {
 	max-width: 970px;
 	margin-inline: auto;
