@@ -1,0 +1,17 @@
+.home__inner {
+	text-align: center;
+	padding-block: 46px 70px;
+}
+
+.home__title {
+	font-size: 46px;
+	font-weight: bold;
+	margin-bottom: 22px;
+}
+
+.home__subtitle {
+	margin-bottom: 36px;
+}
+
+.home__img {
+}
